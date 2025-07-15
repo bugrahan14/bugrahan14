@@ -17,12 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" alt="Motivational Image" width="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Backend Mimari" width="300" style="margin-right:10px;"/>
+  <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" alt="Motivasyon 2" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Backend Architecture" width="500"/>
-</p>
 
 
 
