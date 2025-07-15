@@ -17,8 +17,13 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWthYmUc2cr4vK4jwEEe-zEhLSuGhgSTU4QFZftNoIGTDdi0mYcImM5giS3Sa_gYYRbYY&usqp=CAU" alt="Motivasyon" width="300"/>
+  <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" alt="Motivational Image" width="500"/>
 </p>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Backend Architecture" width="500"/>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
