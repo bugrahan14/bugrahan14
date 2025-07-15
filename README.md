@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" alt="Motivasyon 2" width="300" height="200" style="object-fit:cover; margin-right:10px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Backend Mimari" width="300" height="200" style="object-fit:cover;"/>
+  <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" alt="Motivasyon 2" width="180" height="180" style="object-fit:cover; margin-right:10px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:900/1*o5FmjKTPdJTbhGE2MIjo6w.jpeg" alt="Backend Mimari" width="180" height="180" style="object-fit:cover; margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/collabnix/dockerlabs/master/beginners/docker/images/docker_facebook_share.png" alt="Docker Logo" width="180" height="180" style="object-fit:cover; margin-right:10px;"/>
+  <img src="https://seo-formations-images.s3.fr-par.scw.cloud/kubernetes-1200x1200-1x1.png" alt="Kubernetes Logo" width="180" height="180" style="object-fit:cover;"/>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
