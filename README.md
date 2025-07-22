@@ -1,4 +1,4 @@
-<h1 align="center">BUĞRAHAN ERTAŞ</h1>
+<h1 align="center">-------------(BUĞRAHAN ERTAŞ)-------------</h1>
 <h3 align="center">JAVA BACKEND DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrahan14&label=Profile%20views&color=0e75b6&style=flat" alt="bugrahan14" /> </p>
